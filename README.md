@@ -6,7 +6,7 @@ If you're drowning in stakeholder requests, seeking to scaffold strategies, stru
 
 Think of this as your AI-assisted toolkit for getting real PM work done faster and better while building your strategic thinking capabilities.
 
-_(09Feb26 - and if you're looking to update your Agent's skills head on over to my recently pubilshd, [Product Manager Skills](https://github.com/deanpeters/Product-Manager-Skills) repo.)_
+_(09Feb26 - and if you're looking to update your Agent's skills, head on over to my recently pubilshd, [Product Manager Skills](https://github.com/deanpeters/Product-Manager-Skills) repo.)_
 
 ## Quick Start: Try This Right Now
 
